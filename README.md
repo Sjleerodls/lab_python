@@ -1,1 +1,1 @@
-python practice
+python practice with jupyter notebook
